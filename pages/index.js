@@ -17,6 +17,7 @@ export default function Home() {
           리스트 페이지로 이동합니다.
         </button>
       </section>
+      <h4>이제 되었을까?</h4>
 
       <style jsx>
         {`
